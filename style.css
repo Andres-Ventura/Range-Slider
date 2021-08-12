@@ -62,7 +62,7 @@ input[type="range"]::-webkit-slider-thumb {
   background: white;
   border-radius: 50%;
   border: 1px solid lightcoral;
-  margin-top: -7px;
+  margin-top: -6px;
   cursor: pointer;
 }
 
