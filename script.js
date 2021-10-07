@@ -18,7 +18,7 @@ range.addEventListener('input', (e) => {
     const left = value * (numWidth / max) - numLabelWidth / 2 + scale(value, min, max, 10, -10)
 
     label.style.left = `${left}px`
-
+// Might add some background setcase
 
 
     label.innerHTML = value
